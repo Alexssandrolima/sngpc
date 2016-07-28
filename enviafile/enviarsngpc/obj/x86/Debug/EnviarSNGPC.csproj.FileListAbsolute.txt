@@ -1,0 +1,1 @@
+C:\ProjetosCshap\sngpc\enviafile\enviarsngpc\bin\Debug\EnviarSNGPC.exe.config

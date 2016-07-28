@@ -13,6 +13,9 @@ namespace EnviarSNGPC
         [STAThread]
         static void Main()
         {
+            Cls.ClsVerificarProcesso testarsistema = new Cls.ClsVerificarProcesso();
+            testarsistema.fecharprocesso();
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmEnviarSNGPC());
